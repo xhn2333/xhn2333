@@ -4,6 +4,6 @@ I'm @xhn2333 Honnen. Here is my infomations:
 
 🎓B.Eng at CUHK(Shenzhen)
 
-💼Quant Dev
+💼Ubiquant, Quant Dev
 
-⚙HPC/CommSystem/MLInfra
+⚙Trading System / HPC / Communication System / ML Infra
