@@ -2,7 +2,7 @@
 
 I'm @xhn2333 Honnen. Here is my infomations:
 
-🎓 recieved: B.Eng at CUHK(Shenzhen)
+🎓 recieved: B.Eng at CUHK, Shenzhen
 
 💼 working at: Ubiquant, Quant Dev
 
