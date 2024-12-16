@@ -2,8 +2,10 @@
 
 I'm @xhn2333 Honnen. Here is my infomations:
 
-🎓B.Eng at CUHK(Shenzhen)
+🎓 recieved: B.Eng at CUHK(Shenzhen)
 
-💼Ubiquant, Quant Dev
+💼 working at: Ubiquant, Quant Dev
 
-⚙Trading System / HPC / Communication System / ML Infra
+⚙ field in: Trading System / HPC / Communication System / ML Infra
+
+📫 email: xhn2333@gmail.com
